@@ -1,0 +1,7 @@
+# BLDCDriveRegen
+This project on “A new energy regeneration system for BLDC motor-driven electric vehicle” discuss 
+about one such technique which can increase the efficiency of regeneration.
+The system is not only efficient that some traditional system but also cost-effective than the traditional systems.
+This is a prototype.
+
+The values in the Proteus model can be altered according to one's needs. 
